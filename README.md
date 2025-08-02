@@ -1,26 +1,26 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Thakkali Meter] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Data Droids]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Sreeram V Gopal] - [Albertian Institute of Science and Technology-AISAT]
+- Member 2: [Aadith V S] - [Albertian Institute of Science and Technology-AISAT]
+  
 
 ### Project Description
-[2-3 lines about what your project does]
+[A website which uses face of humans to calculate how many tomatoes fit into their faces and their corresponding price]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Calculating the price of tomatoes that fit into our face]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[counting the number of tomatoes that fit into our face and converting its resultant price into different currency]
 
 ## Technical Details
 ### Technologies/Components Used
